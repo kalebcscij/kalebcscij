@@ -1,8 +1,6 @@
 ## Hello! My name is Kaleb! 👋
 
-kalebcscij/kalebcscij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+kalebcscij/kalebcscij is a ✨ _special_ ✨ repository
 
 - 🔭 I’m currently working on ... various projects on my down time (in TryHackMe, 
 - 🌱 I’m currently learning ... Stuff regarding Network security, Python, and general cybersecurity stuff!
