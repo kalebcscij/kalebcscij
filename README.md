@@ -2,10 +2,10 @@
 
 kalebcscij/kalebcscij is a ✨ _special_ ✨ repository
 
-- 🔭 I’m currently working on ... various projects on my down time (in TryHackMe, 
-- 🌱 I’m currently learning ... Stuff regarding Network security, Python, and general cybersecurity stuff!
-- 👯 I’m looking to collaborate on ... Anything computer science and cybersecurity related.
-- 🤔 I’m looking for help with ... Gaining real-world experience and hands-on work for to launch a career!
-- 💬 Ask me about ... Anything! I'd be willing to chat about any topics regarding computing, sports, movies, television, etc.
-- 📫 How to reach me: LinkedIn would be perfect!
+- 🔭 I’m currently working on ... **various projects on my down time (in TryHackMe)**
+- 🌱 I’m currently learning ... **Stuff regarding Network security, Python, and general cybersecurity stuff!**
+- 👯 I’m looking to collaborate on ... **Anything computer science and cybersecurity related.**
+- 🤔 I’m looking for help with ... **Gaining real-world experience and hands-on work for to launch a career!**
+- 💬 Ask me about ... **Anything! I'd be willing to chat about any topics regarding computing, sports, movies, television, etc.**
+- 📫 How to reach me: **LinkedIn would be perfect!**
 
